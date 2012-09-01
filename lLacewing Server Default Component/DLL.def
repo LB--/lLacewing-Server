@@ -1,0 +1,14 @@
+EXPORTS
+	Init					@1
+	version					@2
+	OnConnect				@3
+	OnDisconnect			@4
+	OnServerMessage			@5
+	OnChannelMessage		@6
+	OnPeerMessage			@7
+	OnJoinChannel			@8
+	OnLeaveChannel			@9
+	OnSetName				@10
+	WebserverConfigPanel	@11
+	ConfigPanelData			@12
+	ReleaseData				@13
